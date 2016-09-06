@@ -9,11 +9,12 @@ A simple modpack for those who have not yet played Minecraft 1.10. With the help
 Only minor changes have been made to the configs and I try to keep everything up to date.
 
 Vote here:
-http://goo.gl/XBSPdh
-http://goo.gl/TakYi1
+
+http://goo.gl/XBSPdh (HQM or Better Questing?)
+http://goo.gl/TakYi1 (Waila or The One Probe?)
 
 #II. Authors
-Modlist with author's name can be found here(1.10)
+Modlist with author's name can be found in the authors file.
 
 If there's any bug feel free to let me know, I'll try my best to fix it.
 
