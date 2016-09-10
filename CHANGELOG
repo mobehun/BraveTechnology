@@ -1,2 +1,29 @@
-This file will be updated with tha changlog from ver. 1.16
+This file will be updated with the changlog from ver. 1.16
 
+2016.09.10
+v. 1.17:
+Removed:
+Blood Arsenal -> Can't update Blood Magic otherwise...
+
+Added:
+Mekanism (+Tools, Generators)
+
+Update:
+Advanced Generators - generators-0.9.20.12-mc1.10.2 -> generators-0.9.20.13-mc1.10.2
+Apple Core - AppleCore-mc1.10.2-2.0.0 -> AppleCore-mc1.10.2-2.0.1
+Aroma1997Core - Aroma1997Core-1.9.4-1.1.0.3 -> Aroma1997Core-1.9.4-1.1.1.0
+Aroma1997s-Dimensional World - Aroma1997s-Dimensional-World-1.9.4-1.2.0.1 -> Aroma1997s-Dimensional-World-1.9.4-1.2.0.2
+Blood Magic - BloodMagic-1.9.4-2.0.4-56 -> BloodMagic-1.9.4-2.0.4-58
+Bookshelf - Bookshelf-1.10.2-1.3.0.289 -> Bookshelf-1.10.2-1.4.0.291
+Botania - Botania-unofficial.r1.8-320 -> Botania-unofficial.r1.8-321
+Dark Utilities - DarkUtilities-1.10.2-1.1.3.71 -> DarkUtilities-1.10.2-1.1.4.85
+Draconic Evolution - Draconic-Evolution-1.10.2-2.0.0.88-universal -> Draconic-Evolution-1.10.2-2.0.0.93-universal
+EnderIO - EnderIO-1.10.2-3.0.1.101_beta -> EnderIO-1.10.2-3.0.1.105_beta
+Ender Core - EnderCore-1.10.2-0.4.1.53-beta -> EnderCore-1.10.2-0.4.1.54-beta
+HQM New Heights - HQM-New Heights-1.9.4-5.0.0beta3 -> HQM-New Heights-1.10.2-5.0.0beta4
+Immersive Engineering - ImmersiveEngineering-0.10-38 -> ImmersiveEngineering-0.10-40
+IC2 - industrialcraft-2-2.6.37-ex110 -> industrialcraft-2-2.6.60-ex110
+JEI - jei_1.10.2-3.9.0.246 -> jei_1.10.2-3.9.0.248
+McJtyLib - mcjtylib-1.10-1.9.9 -> mcjtylib-1.10-2.0.1
+RFTools - rftools-1.10-5.21 -> rftools-1.10-5.22
+Roots - roots-1.10.2-0.200.0 -> roots-1.10.2-0.202.0
