@@ -1,7 +1,26 @@
 This file will be updated with the changlog from ver. 1.16
 
+2016.09.12
+v. 1.18 /Work In Progress/
+Added:
+Blood Arsenal -> Sorry, we shoud stick to this one...
+
+Downgrade:
+Blood Magic - BloodMagic-1.9.4-2.0.4-56 <- BloodMagic-1.9.4-2.0.4-58
+
+Update:
+EnderIO - EnderIO-1.10.2-3.0.1.105_beta -> EnderIO-1.10.2-3.0.1.106_beta
+Extreme Reactors - ExtremeReactors-1.9.4-0.4.5.12 -> ExtremeReactors-1.9.4-0.4.5.13
+IC2 - industrialcraft-2-2.6.60-ex110 -> industrialcraft-2-2.6.61-ex110
+Forestry - forestry_1.10.2-5.2.9.242 -> forestry_1.10.2-5.2.9.244
+JEI - jei_1.10.2-3.9.0.248 -> jei_1.10.2-3.9.3.252
+JER - JustEnoughResources-1.10.2-0.5.0.52 -> JustEnoughResources-1.10.2-0.5.1.53
+Mantle - Mantle-1.10.2-0.10.4 -> Mantle-1.10.2-1.0.0
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
 2016.09.10
-v. 1.17:
+v. 1.17: /Beta version/
 Removed:
 Blood Arsenal -> Can't update Blood Magic otherwise...
 
