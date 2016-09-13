@@ -9,13 +9,17 @@ Downgrade:
 Blood Magic - BloodMagic-1.9.4-2.0.4-56 <- BloodMagic-1.9.4-2.0.4-58
 
 Update:
-EnderIO - EnderIO-1.10.2-3.0.1.105_beta -> EnderIO-1.10.2-3.0.1.106_beta
+Bookshelf - Bookshelf-1.10.2-1.4.0.291 -> Bookshelf-1.10.2-1.4.0.291
+EnderIO - EnderIO-1.10.2-3.0.1.105_beta -> EnderIO-1.10.2-3.0.1.107_beta
 Extreme Reactors - ExtremeReactors-1.9.4-0.4.5.12 -> ExtremeReactors-1.9.4-0.4.5.13
 IC2 - industrialcraft-2-2.6.60-ex110 -> industrialcraft-2-2.6.61-ex110
-Forestry - forestry_1.10.2-5.2.9.242 -> forestry_1.10.2-5.2.9.244
+Forestry - forestry_1.10.2-5.2.9.242 -> forestry_1.10.2-5.2.9.247
 JEI - jei_1.10.2-3.9.0.248 -> jei_1.10.2-3.9.3.252
-JER - JustEnoughResources-1.10.2-0.5.0.52 -> JustEnoughResources-1.10.2-0.5.1.53
+JER - JustEnoughResources-1.10.2-0.5.0.52 -> JustEnoughResources-1.10.2-0.5.1.54
 Mantle - Mantle-1.10.2-0.10.4 -> Mantle-1.10.2-1.0.0
+McJtyLib - mcjtylib-1.10-2.0.1 -> mcjtylib-1.10-2.0.2
+Refined Storage - refinedstorage-0.9.4 -> refinedstorage-1.0
+Reliquary - Reliquary-1.10.2-1.3.3.521 -> Reliquary-1.10.2-1.3.3.543
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
