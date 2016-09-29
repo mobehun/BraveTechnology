@@ -7,24 +7,29 @@ I'll start working on porting to Better Questing. HQM just doesn't work the way 
 
 Added:
 Enchanting Plus
+Morpheus
 PSIonic Upgrades
+QuantumStorage (+Reborn Core)
 Tinkers' Tool Leveling
+TOP (+Addon)
 Translocators
+Botania (Instead of Botania Unofficial)
 
 Update:
 Bookshelf - Bookshelf-1.10.2-1.4.1.319 -> Bookshelf-1.10.2-1.4.0.322
 Dark Utilities - DarkUtilities-1.10.2-1.1.4.85 -> DarkUtilities-1.10.2-1.1.3.86
 Deep Resonance - deepresonance-1.10-1.2.3 -> deepresonance-1.10-1.2.7
+EnderIO - EnderIO-1.10.2-3.0.1.112_beta -> EnderIO-1.10.2-3.0.1.116_beta
 EnderCore - EnderCore-1.10.2-0.4.1.55-beta ->  EnderCore-1.10.2-0.4.1.56-beta
-Forestry - forestry_1.10.2-5.2.12.257 -> forestry_1.10.2-5.2.12.259
-JEI - jei_1.10.2-3.10.0.267 -> jei_1.10.2-3.12.0.282
+Forestry - forestry_1.10.2-5.2.12.257 -> forestry_1.10.2-5.2.12.260
+JEI - jei_1.10.2-3.10.0.267 -> jei_1.10.2-3.12.0.285
 JER - JustEnoughResources-1.10.2-0.5.1.56 -> JustEnoughResources-1.10.2-0.5.3.59
 McJtyLib - mcjtylib-1.10-2.1.2 -> mcjtylib-1.10-2.1.3
 Pam's HarvestCraft - Pam's HarvestCraft 1.9.4-1.10.2c -> Pam's HarvestCraft 1.9.4-1.10.2e
 RandomThings - RandomThings-MC1.10.2-3.7.5 -> RandomThings-MC1.10.2-3.7.6
 Refined Storage - refinedstorage-1.0.5 -> refinedstorage-1.1.1 (Uhhhh... I like them new textures! FANCY!!)
 Reliquary - Reliquary-1.10.2-1.3.3.543 -> Reliquary-1.10.2-1.3.3.571
-RFTools - rftools-1.10-5.24 -> rftools-1.10-5.25
+RFTools - rftools-1.10-5.24 -> rftools-1.10-5.26
 RFTools-Dimensions - rftoolsdim-1.10-4.30beta50 -> rftoolsdim-1.10-4.40
 Roots - roots-1.10.2-0.202.0 -> roots-1.10.2-0.203.0
 Sonar Core - SonarCore-1.9.4-3.1.5 -> SonarCore-1.9.4-3.1.6
