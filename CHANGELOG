@@ -5,13 +5,26 @@ v. 1.24
 
 Update:
 Advanced Generators - generators-0.9.20.14-mc1.10.2 -> generators-0.9.20.15-mc1.10.2
-BdLib - bdlib-1.12.2.12-mc1.10.2 -> bdlib-1.12.2.14-mc1.10.2*
-Forestry - forestry_1.10.2-5.2.14.263 -> forestry_1.10.2-5.2.14.267
+Agricultural Expansion - AgriculturalExpansion[1.9.4][1.10.2]-r1.2.1 -> AgriculturalExpansion[1.9.4][1.10.2]-r1.2.2
+BdLib - bdlib-1.12.2.12-mc1.10.2 -> bdlib-1.12.2.14-mc1.10.2
+Chisel - Chisel-MC1.9.4-0.0.6.46 -> Chisel-MC1.9.4-0.0.6.50
+Dark Utilities - -> DarkUtilities-1.10.2-1.1.4.86 -> DarkUtilities-1.10.2-1.1.4.87
+Deep Resonance - deepresonance-1.10-1.2.8 -> deepresonance-1.10-1.2.9
+ElecCore - ElecCore-1.9.4-1.5.311 -> ElecCore-1.9.4-1.56-326
+Enchanting Plus - EnchantingPlus-1.10.2-4.1.0.113 -> EnchantingPlus-1.10.2-4.1.0.114
+Environmental Tech -environmentaltech-1.10.2-0.10.4b -> environmentaltech-1.10.2-0.10.5c
+Extra Utilities - extrautils2-1.10.2-alpha-1.1.0a -> extrautils2-1.10.2-alpha-1.1.0b
+Forestry - forestry_1.10.2-5.2.14.263 -> forestry_1.10.2-5.2.14.269
+Gendustry - gendustry-1.6.4.21-mc1.10.2 -> gendustry-1.6.4.22-mc1.10.2
 Iron Backpacks - IronBackpacks-1.10.2-2.2.4 -> IronBackpacks-1.10.2-2.2.5
 JEI - jei_1.10.2-3.12.5.303 -> jei_1.10.2-3.12.6.303
+JER - JustEnoughResources-1.10.2-0.5.3.61 -> JustEnoughResources-1.10.2-0.5.3.62
 Refined Storage - refinedstorage-1.1.2 -> refinedstorage-1.1.3
 RFTools - rftools-1.10-5.26 -> rftools-1.10-5.51
 RFTools-Dimensions - rftoolsdim-1.10-4.40 -> rftoolsdim-1.10-4.41
+Soul Shards-TOW - SoulShards-TOW-1.10.2-2.6.3-43 -> SoulShards-TOW-1.10.2-2.6.4-44
+Tinkers' Construct - TConstruct-1.10.2-2.5.3 -> TConstruct-1.10.2-2.5.5
+ValkyrieLib - valkyrielib-1.10.2-0.10.4b -> valkyrielib-1.10.2-0.10.5
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
