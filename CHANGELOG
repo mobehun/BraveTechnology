@@ -2,22 +2,25 @@ This file will be updated with the changlog from ver. 1.16
 
 2016.10.07
 v. 1.24
+Migrating quests to Better Questing (Save your progress!)
 
 Update:
 Advanced Generators - generators-0.9.20.14-mc1.10.2 -> generators-0.9.20.15-mc1.10.2
 Agricultural Expansion - AgriculturalExpansion[1.9.4][1.10.2]-r1.2.1 -> AgriculturalExpansion[1.9.4][1.10.2]-r1.2.2
 BdLib - bdlib-1.12.2.12-mc1.10.2 -> bdlib-1.12.2.14-mc1.10.2
+Brandon's Core - BrandonsCore-1.10.2-2.1.0.46-universal -> BrandonsCore-1.10.2-2.1.0.47-universal
 Chisel - Chisel-MC1.9.4-0.0.6.46 -> Chisel-MC1.9.4-0.0.6.50
 Dark Utilities - -> DarkUtilities-1.10.2-1.1.4.86 -> DarkUtilities-1.10.2-1.1.4.87
 Deep Resonance - deepresonance-1.10-1.2.8 -> deepresonance-1.10-1.2.9
+Draconic Evolution - Draconic-Evolution-1.10.2-2.0.0.101-universal -> Draconic-Evolution-1.10.2-2.0.0.105-universal
 ElecCore - ElecCore-1.9.4-1.5.311 -> ElecCore-1.9.4-1.56-326
 Enchanting Plus - EnchantingPlus-1.10.2-4.1.0.113 -> EnchantingPlus-1.10.2-4.1.0.114
 Environmental Tech -environmentaltech-1.10.2-0.10.4b -> environmentaltech-1.10.2-0.10.5c
 Extra Utilities - extrautils2-1.10.2-alpha-1.1.0a -> extrautils2-1.10.2-alpha-1.1.0b
-Forestry - forestry_1.10.2-5.2.14.263 -> forestry_1.10.2-5.2.14.269
-Gendustry - gendustry-1.6.4.21-mc1.10.2 -> gendustry-1.6.4.22-mc1.10.2
+Forestry - forestry_1.10.2-5.2.14.263 -> forestry_1.10.2-5.2.14.270
+Gendustry - gendustry-1.6.4.21-mc1.10.2 -> gendustry-1.6.4.23-mc1.10.2
 Iron Backpacks - IronBackpacks-1.10.2-2.2.4 -> IronBackpacks-1.10.2-2.2.5
-JEI - jei_1.10.2-3.12.5.303 -> jei_1.10.2-3.12.6.303
+JEI - jei_1.10.2-3.12.5.303 -> jei_1.10.2-3.12.6.308
 JER - JustEnoughResources-1.10.2-0.5.3.61 -> JustEnoughResources-1.10.2-0.5.3.62
 Refined Storage - refinedstorage-1.1.2 -> refinedstorage-1.1.3
 RFTools - rftools-1.10-5.26 -> rftools-1.10-5.51
