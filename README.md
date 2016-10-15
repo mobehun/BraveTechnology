@@ -8,11 +8,6 @@ A simple modpack for those who have not yet played Minecraft 1.10. With the help
 
 Only minor changes have been made to the configs and I try to keep everything up to date.
 
-Vote here:
-
-http://goo.gl/XBSPdh (HQM or Better Questing?)
-http://goo.gl/TakYi1 (Waila or The One Probe?)
-
 #II. Authors
 Modlist with author's name can be found in the authors file.
 
