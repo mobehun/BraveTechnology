@@ -1,11 +1,15 @@
 This file will be updated with the changlog from ver. 1.16
 
-2016.10.16 /Work In Progress/
+2016.10.17
 v. 2.1
+Quests should be fixed!
 Update:
+Advanced Generators - generators-0.9.20.15-mc1.10.2 -> generators-0.9.20.18-mc1.10.2
+BdLib - bdlib-1.12.2.15-mc1.10.2 -> bdlib-1.12.2.16-mc1.10.2
 Bookshelf - Bookshelf-1.10.2-1.4.2.327 -> Bookshelf-1.10.2-1.4.2.330
 Brandon's Core - BrandonsCore-1.10.2-2.1.0.48-universal -> BrandonsCore-1.10.2-2.1.0.51-universal
 ChickenChunks - ChickenChunks-1.10.2-2.1.5.40-universal -> ChickenChunks-1.10.2-2.1.5.42-universal
+Chisel - Chisel-MC1.9.4-0.0.6.51 -> Chisel-MC1.9.4-0.0.6.53
 Chisels&Bits - chiselsandbits-12.5 -> chiselsandbits-12.6
 CodeChickenCore - CodeChickenCore-1.10.2-2.3.2.82-universal -> CodeChickenCore-1.10.2-2.3.2.89-universal
 Dark Utilities - DarkUtilities-1.10.2-1.1.4.87 -> DarkUtilities-1.10.2-1.1.4.88
@@ -15,10 +19,12 @@ EnderStorage - EnderStorage-1.10.2-2.1.5.80-universal -> EnderStorage-1.10.2-2.1
 IC2 - industrialcraft-2-2.6.69-ex110 -> industrialcraft-2-2.6.87-ex110
 Inventory Tweaks - InventoryTweaks-1.61-58 -> InventoryTweaks-1.62-dev-64
 JourneyMap - journeymap-1.10.2-5.3.0b1-unlimited -> journeymap-1.10.2-5.3.0b2-unlimited
-JEI - jei_1.10.2-3.12.7.315 -> jei_1.10.2-3.12.8.323
+JEI - jei_1.10.2-3.12.7.315 -> jei_1.10.2-3.12.8.325
 Pearcel Mod - pearcelmod-1.9.4-2.1.9 -> pearcelmod-1.9.4-2.1.10
-RFTools - rftools-1.10-5.52 -> rftools-1.10-5.53
+PSIonic Upgrades - PSIonicUpgrades-r1.14 -> PSIonicUpgrades-r1.15
+RFTools - rftools-1.10-5.52 -> rftools-1.10-5.54
 RFTools-Dimensions - rftoolsdim-1.10-4.42 -> rftoolsdim-1.10-4.43
+TConstruct - TConstruct-1.10.2-2.5.5 -> TConstruct-1.10.2-2.5.6
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
