@@ -1,6 +1,6 @@
 This file will be updated with the changlog from ver. 1.16
 
-2016.10.21 /Work In Progress/
+2016.10.24
 v. 2.1
 Modified some EMC value(mainly PearcelMod item's)
 Added a few necessary recipe
@@ -8,7 +8,6 @@ Added:
 Simply Jetpacks 2 (Changed the recipes a bit to use JustJetpack's items) //Sortof...
 
 Update:
-BloodMagic - BloodMagic-1.9.4-2.1.0-65 -> BloodMagic-1.9.4-2.1.0-66
 Brandon's Core - BrandonsCore-1.10.2-2.1.0.51-universal -> BrandonsCore-1.10.2-2.1.0.55-universal
 ChanceCubes - ChanceCubes-1.10-2.2.1.120 -> ChanceCubes-1.10-2.3.2.130
 CraftTweaker - CraftTweaker-1.10.2-3.0.12 -> CraftTweaker-1.10.2-3.0.13
@@ -21,7 +20,7 @@ Forestry - forestry_1.10.2-5.2.14.270 -> forestry_1.10.2-5.2.15.296
 Immersive Engineering - ImmersiveEngineering-0.10-44 -> ImmersiveEngineering-0.10-47
 InventoryTweaks - InventoryTweaks-1.62-dev-64 -> InventoryTweaks-1.62-dev-66
 Iron Backpacks - IronBackpacks-1.10.2-2.2.5 -> IronBackpacks-1.10.2-2.2.7
-JEI - jei_1.10.2-3.12.8.325 -> jei_1.10.2-3.13.0.329
+JEI - jei_1.10.2-3.12.8.325 -> jei_1.10.2-3.13.0.328
 JER - JustEnoughResources-1.10.2-0.5.3.65 -> JustEnoughResources-1.10.2-0.5.4.67
 Mantle - Mantle-1.10.2-1.0.0 -> Mantle-1.10.2-1.1.1
 McJtyLib - mcjtylib-1.10-2.1.4 -> mcjtylib-1.10-2.2.0
