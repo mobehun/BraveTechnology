@@ -2,24 +2,33 @@ This file will be updated with the changlog from ver. 1.16
 
 2016.11.01
 v.2.4
+Removed:
+BetterAchievements (No real reason to have it...)
 Added:
 Extra Rails
 Railcraft
 
 Update:
+Aroma1997Core - Aroma1997Core-1.9.4-1.1.1.0 -> Aroma1997Core-1.9.4-1.1.1.1
+Aroma1997s-Dimensional World - Aroma1997s-Dimensional-World-1.9.4-1.2.0.2 -> Aroma1997s-Dimensional-World-1.9.4-1.2.0.3
 Bookshelf - Bookshelf-1.10.2-1.4.2.330 -> Bookshelf-1.10.2-1.4.2.331
 Botania - Botania r1.9-335 -> Botania r1.9-337
 Chisel&Bits - chiselsandbits-12.6 -> chiselsandbits-12.7
 Dark Utilities - DarkUtilities-1.10.2-1.1.5.91 -> DarkUtilities-1.10.2-1.1.5.93
-EnderIO - EnderIO-1.10.2-3.0.1.124_beta -> EnderIO-1.10.2-3.0.1.125_beta
+EnderIO - EnderIO-1.10.2-3.0.1.124_beta -> EnderIO-1.10.2-3.0.1.127_beta
+EU2 - extrautils2-1.10.2-alpha-1.2.1 -> extrautils2-1.10.2-alpha-1.2.2
+Extreme Reactors - ExtremeReactors-1.10.2-0.4.5.18 -> ExtremeReactors-1.10.2-0.4.5.19
 Forestry - forestry_1.10.2-5.2.16.308 -> forestry_1.10.2-5.2.16.310
 IronBackpacks - IronBackpacks-1.10.2-2.2.8 -> IronBackpacks-1.10.2-2.2.10
-JEI - jei_1.10.2-3.13.0.338 -> jei_1.10.2-3.13.0.341
-Refined Storage - refinedstorage-1.1.3 -> refinedstorage-1.2-beta5
+JEI - jei_1.10.2-3.13.0.338 -> jei_1.10.2-3.13.2.359
+JER - JustEnoughResources-1.10.2-0.5.4.67 -> JustEnoughResources-1.10.2-0.5.4.68
+Refined Storage - refinedstorage-1.1.3 -> refinedstorage-1.2.3
 Reliquary - Reliquary-1.10.2-1.3.3.581 -> Reliquary-1.10.2-1.3.3.585
 RFTools - rftools-1.10-5.57 -> rftools-1.10-5.58
-Storage Drawers - StorageDrawers-1.10.2-3.3.0 -> StorageDrawers-1.10.2-3.4.0
+Simply Jetpacks 2 - SimplyJetpacks2-1.10.2-2.0.3.14 -> SimplyJetpacks2-1.10.2-2.0.3.19
+Storage Drawers - StorageDrawers-1.10.2-3.3.0 -> StorageDrawers-1.10.2-3.4.2
 TOP - theoneprobe-1.10-1.2.0 -> theoneprobe-1.10-1.2.1
+ZeroCore - zerocore-1.10.2-0.0.8.0 -> zerocore-1.10.2-0.0.8.1
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
