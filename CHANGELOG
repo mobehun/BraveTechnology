@@ -2,7 +2,7 @@ This file will be updated with the changlog from ver. 1.16
 
 2016.11.16
 v.2.6
-Replacing Correlated Potentialistics (http://www.poll-maker.com/poll875613x08944ee8-36)?
+According to the vote, we are sticking with both AE2 and CP.
 Updated:
 Advanced Generators - generators-0.9.20.18-mc1.10.2 -> generators-0.9.20.119-mc1.10.2
 AE2 - appliedenergistics2-rv4-alpha-5 -> appliedenergistics2-rv4-alpha-6
@@ -10,24 +10,26 @@ AE2Stuff - ae2stuff-0.6.0.5-mc1.10.2 -> ae2stuff-0.6.0.6-mc1.10.2
 AppleCore - AppleCore-mc1.10.2-2.0.1 -> AppleCore-mc1.10.2-2.1.0
 Baubles - Baubles-1.10.2-1.3.3 -> Baubles-1.10.2-1.3.5
 BdLib - bdlib-1.12.2.17-mc1.10.2 -> bdlib-1.12.2.18-mc1.10.2
-Bookshelf - Bookshelf-1.10.2-1.4.2.335 -> Bookshelf-1.10.2-1.4.2.337
 Botania - Botania r1.9-337 -> Botania r1.9-338
 Chameleon - Chameleon-1.10-2.1.7 -> Chameleon-1.10-2.1.8
-CodeChickenLib - CodeChickenLib-1.10.2-2.4.3.124-universal -> CodeChickenLib-1.10.2-2.4.3.144-universal
 CraftTweaker - CraftTweaker-1.10.2-3.0.14 -> CraftTweaker-1.10.2-3.0.15
 Deep Resonance - deepresonance-1.10-1.2.9 -> deepresonance-1.10-1.3.0
 ElecCore - ElecCore-1.10.2-1.6.328 -> ElecCore-1.10.2-1.6.333
+EnderCore - EnderCore-1.10.2-0.4.1.58-beta -> EnderCore-1.10.2-0.4.1.60-beta
 Environmental Tech - environmentaltech-1.10.2-0.10.5g -> environmentaltech-1.10.2-0.10.5h
 Forestry - forestry_1.10.2-5.2.16.324 -> forestry_1.10.2-5.2.16.327
 Gendustry - gendustry-1.6.4.24-mc1.10.2 -> gendustry-1.6.4.25-mc1.10.2
 IC2 - industrialcraft-2-2.6.87-ex110 -> industrialcraft-2-2.6.105-ex110
 Iron Backpacks - IronBackpacks-1.10.2-2.2.13 -> IronBackpacks-1.10.2-2.2.15
-JEI - jei_1.10.2-3.13.2.367 -> jei_1.10.2-3.13.3.377
+JEI - jei_1.10.2-3.13.2.367 -> jei_1.10.2-3.13.3.379
 JER - JustEnoughResources-1.10.2-0.5.4.71 -> JustEnoughResources-1.10.2-0.5.7.87
+LLOverlayReloaded - LLOverlayReloaded-1.1.0-mc[1.9-1.10.2] -> LLOverlayReloaded-1.1.1-mc[1.9-1.11]
 MMD OreSpawn - orespawn-2.0.0.5-1.10.2 -> orespawn-2.0.0.9-1.10.2
+Morpheus - Morpheus-1.10.2-3.1.9 -> Morpheus-1.10.2-3.1.12
 Open Computers - OpenComputers-MC1.10.2-1.6.0.3-rc.1 -> OpenComputers-MC1.10.2-1.6.0.4
 Quantum Storage - QuantumStorage-1.10.2-3.2.7 -> QuantumStorage-1.10.2-3.2.11
-RFTools - rftools-1.10-5.59 -> rftools-1.10-5.60
+Random Things - RandomThings-MC1.10.2-3.7.6 -> RandomThings-MC1.10.2-3.7.7
+RFTools - rftools-1.10-5.59 -> rftools-1.10-5.62
 ShadowMC - ShadowMC-1.10.2-3.4.9 -> ShadowMC-1.10.2-3.6.0
 SolarFluxReborn - SolarFluxReborn_1.10.2-1.4r -> SolarFluxReborn_1.10.2-1.5r
 Soul Shards-TOW - SoulShards-TOW-1.10.2-2.6.5-45 -> SoulShards-TOW-1.10.2-2.6.6-46
