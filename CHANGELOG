@@ -1,39 +1,97 @@
 This file will be updated with the changlog from ver. 1.16
 
-2016.12.05
+2017.01.22.
 v2.8
+
+Added:
+Flux Networks
+FoamFix
+FTBLib
+FTB Utilities
+
 Updated:
 AE2Stuff - ae2stuff-0.6.0.6-mc1.10.2 -> ae2stuff-0.6.0.7-mc1.10.2
-AE2 - appliedenergistics2-rv4-alpha-7 -> appliedenergistics2-rv4-alpha-8
-Baubles - Baubles-1.10.2-1.3.5 -> Baubles-1.10.2-1.3.6
-Better Questing - BetterQuesting-1.3.161 -> BetterQuesting-1.3.180
-Blood Magic - BloodMagic-1.9.4-2.1.0-66 -> BloodMagic-1.9.4-2.1.0-68
+AE2 - appliedenergistics2-rv4-alpha-7 -> appliedenergistics2-rv4-alpha-11
+Aroma1997s-Dimensional World - Aroma1997s-Dimensional-World-1.9.4-1.2.0.3 -> Aroma1997s-Dimensional-World-1.9.4-1.2.0.6
+Baubles - Baubles-1.10.2-1.3.5 -> Baubles-1.10.2-1.3.8
+BdLib - bdlib-1.12.2.18-mc1.10.2 -> bdlib-1.12.2.20-mc1.10.2
+Better Builders Wands - BetterBuildersWands-0.6.5-1.10r138+8595fc7 -> BetterBuildersWands-1.10.2-0.11.0.215+2d66774
+Better Questing - BetterQuesting-1.3.161 -> BetterQuesting-2.3.207
+Better Questing-Standard Expansion - StandardExpansion-1.3.92 -> StandardExpansion-2.3.122
+Better Questing Triggerer - BetterQuestingTriggerer-0.4 -> BetterQuestingTriggerer-0.8
+Blood Magic - BloodMagic-1.9.4-2.1.0-66 -> BloodMagic-1.9.4-2.1.0-69
 Bookshelf - Bookshelf-1.10.2-1.4.3.338 -> Bookshelf-1.10.2-1.4.3.339
+Botania - Botania r1.9-339 -> Botania r1.9-340
+Brandons Core - BrandonsCore-1.10.2-2.1.1.61-universal -> BrandonsCore-1.10.2-2.1.3.82-universal
+Calculator - Calculator-1.9.4-3.1.2 -> Calculator-1.10.2-3.1.6
+Chameleon - Chameleon-1.10-2.2.0 -> Chameleon-1.10-2.2.2
+Chance Cubes - ChanceCubes-1.10.2-2.3.2.131 -> ChanceCubes-1.10.2-2.3.4.166
+Chicken Chunks - ChickenChunks-1.10.2-2.1.5.42-universal -> ChickenChunks-1.10.2-2.2.0.52-universal
 Chisel - Chisel-MC1.10.2-0.0.7.3 -> Chisel-MC1.10.2-0.0.7.7
-Chisel&Bits - chiselsandbits-12.7 -> chiselsandbits-12.8
-CompatLayer - compatlayer-1.10-0.0.17alpha -> compatlayer-1.10-0.1.0
-Deep Resonance - deepresonance-1.10-1.3.1 -> deepresonance-1.1x-1.4.0
-ElecCore - ElecCore-1.10.2-1.6.345 -> ElecCore-1.10.2-1.6.360
-EnderIO - EnderIO-1.10.2-3.0.1.137_beta -> EnderIO-1.10.2-3.0.1.138_beta
-EU2 - extrautils2-1.10.2-1.1.1 -> extrautils2-1.10.2-1.1.2
-Extreme Reactors - ExtremeReactors-1.10.2-0.4.5.19 -> ExtremeReactors-1.10.2-0.4.5.20
-Forestry - forestry_1.10.2-5.2.16.328 -> forestry_1.10.2-5.2.16.331
-Gendustry - gendustry-1.6.4.25-mc1.10.2 -> gendustry-1.6.5.26-mc1.10.2
-Immersive Engineering - ImmersiveEngineering-0.10-50 -> ImmersiveEngineering-0.10-52
-Iron Backpacks - IronBackpacks-1.10.2-2.2.17 -> IronBackpacks-1.10.2-2.2.19
+Chisel&Bits - chiselsandbits-12.7 -> chiselsandbits-12.11
+Code Chicken Core - CodeChickenCore-1.10.2-2.3.5.91-universal -> CodeChickenCore-1.10.2-2.4.0.101-universal
+Code Chicken Lib - CodeChickenLib-1.10.2-2.4.3.145-universal -> CodeChickenLib-1.10.2-2.5.2.198-universal
+Compact Solars - CompactSolars-1.10.2-5.0.5.329-universal -> CompactSolars-1.10.2-5.0.8.331-universal
+CompatLayer - compatlayer-1.10-0.0.17alpha -> compatlayer-1.10-0.1.7
+Controlling - Controlling-1.0.0 -> Controlling-1.0.3
+Cooking For Blockheads - CookingForBlockheads_1.10.2-4.2.26 -> CookingForBlockheads_1.10.2-4.2.29
+Correlated Potentialistics - CorrelatedPotentialistics-2.0.0-alpha2 -> Correlated-2.0.0-alpha3
+CraftTweaker - CraftTweaker-1.10.2-3.0.15 -> CraftTweaker-1.10.2-3.0.17
+Dark Utilities - DarkUtilities-1.10.2-1.1.6.99 -> DarkUtilities-1.10.2-1.1.6.105
+Deep Resonance - deepresonance-1.10-1.3.1 -> deepresonance-1.1x-1.4.3
+Draconic Evolution - Draconic-Evolution-1.10.2-2.0.3.137-universal -> Draconic-Evolution-1.10.2-2.0.7.168-universal
+ElecCore - ElecCore-1.10.2-1.6.345 -> ElecCore-1.10.2-1.6.379
+EnderIO - EnderIO-1.10.2-3.0.1.137_beta -> EnderIO-1.10.2-3.1.168
+Ender Storage - EnderStorage-1.10.2-2.1.5.84-universal -> EnderStorage-1.10.2-2.2.0.96-universal
+EnderCore - EnderCore-1.10.2-0.4.1.60-beta -> EnderCore-1.10.2-0.4.1.65-beta
+Environmental Tech - environmentaltech-1.10.2-0.10.5h -> environmentaltech-1.10.2-0.10.5i
+EU2 - extrautils2-1.10.2-1.1.1 -> extrautils2-1.10.2-1.1.3d
+Extreme Reactors - ExtremeReactors-1.10.2-0.4.5.19 -> ExtremeReactors-1.10.2-0.4.5.25
+Forestry - forestry_1.10.2-5.2.16.328 -> forestry_1.10.2-5.2.17.360
+Gendustry - gendustry-1.6.4.25-mc1.10.2 -> gendustry-1.6.5.27-mc1.10.2
+GraveStone Mod - GraveStone Mod 1.5.9 -> GraveStone Mod 1.5.12
+Immersive Engineering - ImmersiveEngineering-0.10-50 -> ImmersiveEngineering-0.10-55
+IC2 - industrialcraft-2-2.6.105-ex110 -> industrialcraft-2-2.6.142-ex110
+Iron Backpacks - IronBackpacks-1.10.2-2.2.17 -> IronBackpacks-1.10.2-2.2.22
+JourneyMap - journeymap-1.10.2-5.3.0 -> journeymap-1.10.2-5.4.4
+JEI - jei_1.10.2-3.13.6.387 -> jei_1.10.2-3.14.3.403
 JER - JustEnoughResources-1.10.2-0.5.7.87 -> JustEnoughResources-1.10.2-0.5.8.98
-JourneyMap - journeymap-1.10.2-5.3.0 -> journeymap-1.10.2-5.3.1
-McJtyLib - mcjtylib-1.10-2.2.0 -> mcjtylib-1.1x-2.3.0
-MMD OreSpawn - orespawn-2.0.0.9-1.10.2 -> orespawn-2.0.0.10-1.10.2
-Mod Tweaker - ModTweaker2-2.0.6 -> ModTweaker2-2.0.7
+Mantle - Mantle-1.10.2-1.1.2 -> Mantle-1.10.2-1.1.4
+McJtyLib - mcjtylib-1.10-2.2.0 -> mcjtylib-1.1x-2.3.4
+Mekanism - Mekanism-1.10.2-9.2.0.292 -> Mekanism-1.10.2-9.2.1.298
+Mekanism Generators - MekanismGenerators-1.10.2-9.2.0.292 -> MekanismGenerators-1.10.2-9.2.1.298
+Mekanism Tools - MekanismTools-1.10.2-9.2.0.292 -> MekanismTools-1.10.2-9.2.1.298
+MMD OreSpawn - orespawn-2.0.0.9-1.10.2 -> OreSpawn-1.10.2-2.0.0.15
+Mod Tweaker - ModTweaker2-2.0.6 -> ModTweaker2-2.0.9
+Morpheus - Morpheus-1.10.2-3.1.12 -> Morpheus-1.10.2-3.1.13
+MTLib - MTLib-1.0.0 -> MTLib-1.0.1
+Natural Pledge - NaturalPledge-r1.6 -> NaturalPledge-r1.9.1
+Open Computers - OpenComputers-MC1.10.2-1.6.0.4 -> OpenComputers-MC1.10.2-1.6.1.6
+ProjectE - ProjectE-1.10.2-PE1.1.0B -> ProjectE-1.10.2-PE1.2.0
+Quantum Flux - quantumflux-1.10.2-2.0.9 -> quantumflux-1.10.2-2.0.11
+Quantum Storage - QuantumStorage-1.10.2-3.2.12 -> QuantumStorage-1.10.2-3.2.17
 Railcraft - Railcraft_1.10.2-10.0.0 -> Railcraft_1.10.2-10.0.1
-Reborn Core - RebornCore-1.10.2-2.8.1.64-universal -> RebornCore-1.10.2-2.8.3.71-universal
-Refined Storage - refinedstorage-1.2.6 -> refinedstorage-1.2.8
-RFTools - rftools-1.10-5.62 -> rftools-1.1x-5.70
-RFTools-Dimensions - rftoolsdim-1.10-4.45 -> rftoolsdim-1.1x-4.50
+Reborn Core - RebornCore-1.10.2-2.8.1.64-universal -> RebornCore-1.10.2-2.13.2.114-universal
+Refined Storage - refinedstorage-1.2.6 -> refinedstorage-1.2.18
+Reliquary - Reliquary-1.10.2-1.3.3.585 -> Reliquary-1.10.2-1.3.3.620
+RFTools - rftools-1.10-5.62 -> rftools-1.1x-5.82
+RFTools-Dimensions - rftoolsdim-1.10-4.45 -> rftoolsdim-1.1x-4.53
 Roots - roots-1.10.2-0.204.0 -> roots-0.208
-Storage Drawers - StorageDrawers-1.10.2-3.5.2-> StorageDrawers-1.10.2-3.5.6
-Zero Core - zerocore-1.10.2-0.0.8.1 -> zerocore-1.10.2-0.0.8.2
+Shafowfacts' Forgelin - Forgelin-1.1.0 -> Forgelin-1.2.0
+ShadowMC - ShadowMC-1.10.2-3.6.0 -> ShadowMC-1.10.2-3.6.1
+Simple Generators - simplegenerators-1.10.2-0.10.5b -> simplegenerators-1.10.2-0.10.5d
+Simple Upgrades - simpleupgrades-1.10.2-2.1.7-release -> simpleupgrades-1.10.2-2.1.8-release
+Simply Jetpacks2 - SimplyJetpacks2-1.10.2-2.0.3.19 -> SimplyJetpacks2-1.10.2-2.0.3.26
+Solar Flux Reborn - SolarFluxReborn_1.10.2-1.5r -> SolarFluxReborn_1.10.2-2.4r
+Sonar Core - SonarCore-1.9.4-3.1.6 -> SonarCore-1.10.2-3.2.1
+Soul Shards-TOW - SoulShards-TOW-1.10.2-2.6.6-46 -> SoulShards-TOW-1.10.2-2.6.7-48
+Steves Factory Manager - StevesFactoryManager-1.10.2-1.0.9 -> StevesFactoryManager-1.10.2-1.0.12
+Storage Drawers - StorageDrawers-1.10.2-3.5.2-> StorageDrawers-1.10.2-3.5.17
+TAIGA - taiga-1.10.2-1.1.4 -> taiga-1.10.2-1.2.6
+TConstruct - TConstruct-1.10.2-2.6.0 -> TConstruct-1.10.2-2.6.2
+ValkyrieLib - valkyrielib-1.10.2-0.10.5e -> valkyrielib-1.10.2-0.10.5f
+Vein Miner - VeinMiner-0.34.1-1.9r571+73be663 -> VeinMiner-1.9-0.35.3.595+a46c1b0
+Zero Core - zerocore-1.10.2-0.0.8.1 -> zerocore-1.10.2-0.1.0.2
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
